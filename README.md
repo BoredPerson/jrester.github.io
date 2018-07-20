@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   crystal-math:
-    github: your-github-user/crystal-math
+    github: TheKingsJrester/crystal-math
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/crystal-math/fork>)
+1. Fork it (<https://github.com/TheKingsJrester/crystal-math/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) TheKingsJrester - creator, maintainer
+- [TheKingsJrester](https://github.com/TheKingsJrester) TheKingsJrester - creator, maintainer
